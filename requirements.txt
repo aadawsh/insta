@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-instaloader
-python-multipart
-requests
-python-dotenv
