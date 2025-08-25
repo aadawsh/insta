@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+instaloader
+python-multipart
+requests
+pydantic
